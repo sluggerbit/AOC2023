@@ -1,3 +1,5 @@
 /target
 *.exe
 *.pdb
+*.lock
+*.idea
